@@ -250,7 +250,7 @@ body {
 .order-service {
     background-color: #2E2F42;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-        url("/images/HW4/background-mobile-1X.jpg");
+        url("../images/HW4/background-mobile-1X.jpg");
     background-size: cover;
     height: 432px;
     padding: 72px 0;
@@ -263,7 +263,7 @@ body {
 screen and (min-resolution: 2dppx) and (min-width: 320px),
 screen and (min-device-pixel-ratio: 2) and (min-width: 320px) {
     .order-service {background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-            url("/images/HW4/background-mobile-2X.jpg");
+            url("../images/HW4/background-mobile-2X.jpg");
     }
 }
 
